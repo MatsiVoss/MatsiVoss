@@ -19,7 +19,7 @@
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=matsivoss&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=f4b742&icon_color=f4b742&text_color=9de7bb&bg_color=151515" alt="Matsi's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=matsivoss&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=f4b742&icon_color=f4b742&text_color=9de7bb&bg_color=151515" alt="Matsi's Github Stats"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matsivoss&text_color=daf7dc&bg_color=151515)](https://github.com/matsivoss/github-readme-stats)
 
 </br>
 
