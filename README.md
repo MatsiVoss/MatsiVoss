@@ -17,8 +17,6 @@
 - 🔧 &nbsp; PyCharm | Visual Studio (Code) | PHPStorm/Rider | Git
 - 🖥 &nbsp; Adobe XD | Illustrator | Photoshop
 
-<br>
-
 <h3> 🤝🏻 contact details </h3>
 
 - EMail: Privat@mats-voss.de
