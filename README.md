@@ -19,13 +19,6 @@
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mats-voss&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=f4b742&icon_color=f4b742&text_color=9de7bb&bg_color=151515" alt="Matsi's Github Stats">
-
-</br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mats-voss&text_color=FFFFFF&bg_color=151515)](https://github.com/mats-voss/github-readme-stats)
-
-
 <h3> 🤝🏻 contact details </h3>
 
 - EMail: Privat@mats-voss.de
